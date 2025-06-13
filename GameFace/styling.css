@@ -16,7 +16,7 @@ body{
     font-family: "Arial", sans-serif;
     font-size: 32px;
     text-align: center;
-    color: white;
+    color: rgb(255, 255, 255);
 }
 .features:hover{
     background-color: rgba(24, 24, 24, 0.8);
@@ -50,33 +50,43 @@ body{
     align-items: left;
     position: static;
     padding: 10px 20px;
+    padding-top: 30px;
+    padding-bottom: 20px;
+    margin-left: 30px;
+    margin-right: 20px;
     width: 100%;
     gap: 10px;
 }
 
 button{
     text-decoration: none;
-    background-color: rgb(58, 4, 255);
+    background-color: rgb(59, 59, 61, 0.81);
     color: white;
     font-size: 22px;
     padding: 10px 20px;
+    padding-left: 50px;
+    padding-right: 50px;
     margin: auto;
-    border-radius: 10px;
+    border-radius: 5px;
     position: static;
     cursor: pointer;
     box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
-    border: none;
     outline: none;
     transition: background-color 0.3s ease;
+    background: rgba(0, 0, 0, 0.7);
+    backdrop-filter: blur(10px);
+    border: 3px solid rgba(255, 255, 255, 0.1);
 }
 button:hover{
     background-color: rgba(59, 59, 61, 0.81);
     color: white;
     box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
-    transition: background-color 0.3s ease;
     cursor: pointer;
-    border: none;
+    border:none;
     outline: none;
+    background-color: rgba(24, 24, 24, 0.8);
+    box-shadow: 0 6px 12px rgba(0, 0, 0, 0.3);
+    transition: background-color 0.3s ease, box-shadow 0.3s ease;
 }
 
 .features h4{
