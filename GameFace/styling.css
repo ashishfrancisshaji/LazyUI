@@ -4,7 +4,7 @@ body{
     flex-direction: column;
     justify-content: center;
     align-items: center;
-    padding: 20px;
+    padding: 40px 20px;
     min-height: 100vh;
     margin: 0;
     background-image: url('MYIMG/Game-Interface.jpg');
