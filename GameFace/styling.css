@@ -19,6 +19,7 @@ main{
     justify-content: center;
     align-items: center;
     margin-right: 35px;
+    margin-top: 10px;
 }
 .LazyUI{
     font-family: "Arial", sans-serif;
