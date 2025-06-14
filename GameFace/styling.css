@@ -12,6 +12,14 @@ body{
     background-position: center;
     box-sizing: border-box;
 }
+
+main{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    margin-right: 35px;
+}
 .LazyUI{
     font-family: "Arial", sans-serif;
     font-size: 32px;
