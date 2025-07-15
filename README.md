@@ -1,2 +1,2 @@
 # LazyUI
-My attempt on creating a game store
+My attempt on creating a game
