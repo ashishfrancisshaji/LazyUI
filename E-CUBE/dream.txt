@@ -1,0 +1,6 @@
+1) Tech Support : dont know CompTIA A+, but I know basic python and bash scripting and some networking fundamentals and OS scripts
+2) Data/QA Tester : i know few excel skills, test case writing, and have detailed attention. i dont have qa basics and Jira
+3)web dev : i know html, css, js, basic node.js, no php, i know git. i can do well with react and next if using ai, if alone then no, i have some experience with rest apis and good experience with vercel and netlify
+4) soft dev : i know good java, python, no c++, leetcode medium on dsa, good git, and good sql. dont know how to categorize myself in oop, system design basics are good, surface level on CI/CD, apis and version control.
+5)QA automation eng : i dont know selenium, cypress, tesng, jenkins. i know python, java, ci/cd tools barely, postman and github actions barely
+6)i know html, css, js and figma well. react experienced through ai, little works on tailwind.
